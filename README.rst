@@ -1,8 +1,13 @@
 Hawkmatix Distribution
 ======================
 
-Hawkmatix creates upper and lower bounds for the variance in price based on
-probability distributions.
+When assuming price follows a probability distribution, every price value has
+an associated probability. This project uses continuous probability
+distributions to determine low probability prices. Given a period and a
+probability, the prices that satisfy the distribution are found and plotted.
+The probability of price reaching each band is equivalent to the input
+probability. The three distributions currently available are Gaussian, Laplace,
+and Logistic. Additional distributions will be added soon. 
 
 Installation
 ------------
