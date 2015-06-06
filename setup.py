@@ -36,4 +36,3 @@ print("Press the Compile button in the top menu bar.")
 input("Press Enter to continue...\n")
 print("Once the compilation completes without errors, the add-on has been \
 installed.")
-

@@ -22,9 +22,9 @@ Install from source, method 2:
     1. Unzip the downloaded file ``distribution-master.zip``.
     2. Locate the source file ``HawkmatixDistribution.cs``.
     3. Move the source file to the NinjaTrader indicator folder ``Documents/
-        NinjaTrader 7/bin/Custom/Indicator``.
+       NinjaTrader 7/bin/Custom/Indicator``.
     4. Open any indicator in NinjaTrader by going to Tools > Edit NinjaScript
-        > Indicator...
+       > Indicator...
     5. Press the ``compile`` button in the menu bar.
 
 Package Contents
