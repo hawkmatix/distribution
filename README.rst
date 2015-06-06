@@ -7,7 +7,7 @@ distributions to determine low probability prices. Given a period and a
 probability, the prices that satisfy the distribution are found and plotted.
 The probability of price reaching each band is equivalent to the input
 probability. The three distributions currently available are Gaussian, Laplace,
-and Logistic. Additional distributions will be added soon. 
+and Logistic. Additional distributions will be added soon.
 
 Installation
 ------------
@@ -21,8 +21,10 @@ Install from source, method 2:
 
     1. Unzip the downloaded file ``distribution-master.zip``.
     2. Locate the source file ``HawkmatixDistribution.cs``.
-    3. Move the source file to the NinjaTrader indicator folder ``Documents/NinjaTrader 7/bin/Custom/Indicator``.
-    4. Open any indicator in NinjaTrader by going to Tools > Edit NinjaScript > Indicator...
+    3. Move the source file to the NinjaTrader indicator folder ``Documents/
+        NinjaTrader 7/bin/Custom/Indicator``.
+    4. Open any indicator in NinjaTrader by going to Tools > Edit NinjaScript
+        > Indicator...
     5. Press the ``compile`` button in the menu bar.
 
 Package Contents
@@ -35,7 +37,7 @@ Usage
 -----
 
 This software is intended for use with the NinjaTrader trading platform.
-Full documentation is available at http://Hawkmatix.github.io/distribution.html
+Full documentation is available at http://hawkmatix.github.io/distribution.html
 
 Supported Operating Environment
 -------------------------------
@@ -78,9 +80,9 @@ Changelog
 ---------
 
 * v3 Added Hawkmatix Average Difference so the Laplace Distribution can be
-determined.
+    determined.
 
 * v2 Additional distributions are added (Laplace and Logistic).
 
 * v1 Standard calculations to solve for the upper and lower bounds using the
-Gaussian Distribution, given a probability, are implemented.
+    Gaussian Distribution, given a probability, are implemented.
