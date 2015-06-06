@@ -80,9 +80,9 @@ Changelog
 ---------
 
 * v3 Added Hawkmatix Average Difference so the Laplace Distribution can be
-    determined.
+  determined.
 
 * v2 Additional distributions are added (Laplace and Logistic).
 
 * v1 Standard calculations to solve for the upper and lower bounds using the
-    Gaussian Distribution, given a probability, are implemented.
+  Gaussian Distribution, given a probability, are implemented.
