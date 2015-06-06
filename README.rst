@@ -12,18 +12,18 @@ and Logistic. Additional distributions will be added soon.
 Installation
 ------------
 
-Install from source, method 1 (Requires Python)::
+Install from source, method 1 (Requires Python):
 
-    python setup.py
-    Follow the directions after the script completes.
+    1. ``> python setup.py``
+    2. Follow the directions after the script completes.
 
-Install from source, method 2::
+Install from source, method 2:
 
-    Unzip the downloaded file ``distribution-master.zip``.
-    Locate the source file ``HawkmatixDistribution.cs``.
-    Move the source file to the NinjaTrader indicator folder ``Documents/NinjaTrader 7/bin/Custom/Indicator``.
-    Open any indicator in NinjaTrader by going to Tools > Edit NinjaScript > Indicator...
-    Press the ``compile`` button in the menu bar.
+    1. Unzip the downloaded file ``distribution-master.zip``.
+    2. Locate the source file ``HawkmatixDistribution.cs``.
+    3. Move the source file to the NinjaTrader indicator folder ``Documents/NinjaTrader 7/bin/Custom/Indicator``.
+    4. Open any indicator in NinjaTrader by going to Tools > Edit NinjaScript > Indicator...
+    5. Press the ``compile`` button in the menu bar.
 
 Package Contents
 ----------------
